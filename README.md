@@ -5,7 +5,7 @@ Computer Engineering @KMUTT
 ---------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [singchai.beer@mail.kmutt.ac.th](mailto:singchai.beer@mail.kmutt.ac.th)
+* ✉️  You can contact me at [singchai.beer@gmail.com](mailto:singchai.beer@mail.kmutt.ac.th)
 
 <a href="https://www.github.com/lnwbeer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lnwbeer?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
