@@ -29,3 +29,11 @@ src="https://img.shields.io/github/followers/lnwbeer?logo=github&style=for-the-b
 <a href="http://www.github.com/lnwbeer"><img src="https://github-readme-stats.vercel.app/api?username=lnwbeer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lnwbeer's GitHub stats" /></a>
 
 <a href="https://github.com/lnwbeer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnwbeer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lnwbeer/lnwbeer/output/github-contribution-grid-snake2-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lnwbeer/lnwbeer/output/github-contribution-grid-snake2.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/lnwbeer/lnwbeer/output/github-contribution-grid-snake2.svg" />
+</picture>
