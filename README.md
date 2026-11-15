@@ -1,6 +1,3 @@
-![Header](./assets/header.png)
-
-
 Computer Engineering @KMUTT
 ---------------------------
 
